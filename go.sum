@@ -1,4 +1,2 @@
-git.taservs.net/ljohnston/example2 v0.0.0-20230227173545-a485a8dcbe43 h1:7dDwjDXVnwfDaOjQ0sowUSqNhJjKiqZzI92ue3CAZKo=
-git.taservs.net/ljohnston/example2 v0.0.0-20230227173545-a485a8dcbe43/go.mod h1:tEX8WHVSDs50rYYugrnnjDmweG9yD1FveI8QgEj4914=
-git.taservs.net/ljohnston/example2 v0.0.0-20230227174115-700f7ed164bb h1:AsiBzVo5zkXMXbB0Cnq4vTpfisIWjulPU/19N80hesU=
-git.taservs.net/ljohnston/example2 v0.0.0-20230227174115-700f7ed164bb/go.mod h1:tEX8WHVSDs50rYYugrnnjDmweG9yD1FveI8QgEj4914=
+github.com/simoncwaterer/example2code v0.0.0-20231025144525-adac39591f1b h1:nMHDYL7V+U5zYBhadH0rGW8r07NwN6DsCywLjF+2sgU=
+github.com/simoncwaterer/example2code v0.0.0-20231025144525-adac39591f1b/go.mod h1:tEX8WHVSDs50rYYugrnnjDmweG9yD1FveI8QgEj4914=
