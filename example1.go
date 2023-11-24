@@ -1,5 +1,7 @@
 package main
 
+// super important comment
+
 import "fmt"
 
 type Foo interface {
