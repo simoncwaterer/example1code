@@ -1,6 +1,6 @@
 package main
 
-// super important comment
+// super important comment super comment
 
 import "fmt"
 
