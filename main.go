@@ -1,5 +1,6 @@
 package main
 
+super comment 
 import "git.taservs.net/ljohnston/example2/ex"
 
 func main() {
