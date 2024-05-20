@@ -1,7 +1,7 @@
 package main
 
 anohe comment
-// super important comment super comment
+// super important comment super comment another comment
 
 import "fmt"
 
