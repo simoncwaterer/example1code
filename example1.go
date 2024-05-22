@@ -2,6 +2,7 @@ package main
 
 anohe comment
 // super important comment super comment another comment
+// one of my favourite comments
 
 import "fmt"
 
